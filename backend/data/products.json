@@ -1,0 +1,71 @@
+[
+    {
+        "name": "cold pressed groundnut oil",
+        "price": 245.67,
+        "description": "This is cold pressed groundnut oil",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "oil",
+        "seller": "pepro chekku oil",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "cold pressed sesame oil",
+        "price": 150.32,
+        "description": "This is cold pressed groundnut oil",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "oil",
+        "seller": "pepro chekku oil",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "cold pressed coconut oil",
+        "price": 440.57,
+        "description": "This is cold pressed groundnut oil",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "pepro chekku oil",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/6.jpg"
+          }
+        ],
+        "category": "oil",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      }
+    
+   
+]
